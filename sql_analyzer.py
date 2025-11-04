@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-SQL Query Performance Analyzer
-A command-line tool to analyze MySQL query performance and provide optimization suggestions.
-"""
-
 import argparse
 import sys
 import time
